@@ -1,8 +1,9 @@
-package camp.nextstep;
+package camp.nextstep.calculator;
 
 import static org.assertj.core.api.Assertions.assertThat;
 import static org.assertj.core.api.Assertions.assertThatThrownBy;
 
+import camp.nextstep.calculator.StringAddCalculator;
 import org.junit.jupiter.api.Test;
 
 public class StringAddCalculatorTest {
